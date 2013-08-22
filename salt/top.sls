@@ -5,3 +5,4 @@ base:
     - tmux
     - python
     - tools
+    - ssh
