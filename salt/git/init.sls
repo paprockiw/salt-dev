@@ -21,3 +21,7 @@ https://github.com/tpope/vim-git.git:
 https://github.com/saltstack/salt-vim.git:
   git.latest:
     - target: /home/bill/.vim/bundle/salt-vim
+
+https://github.com/scrooloose/nerdtree.git:
+  git.latest:
+    - target: /home/bill/.vim/bundle/nerdtree
