@@ -16,4 +16,6 @@ vim:
   file.directory:
     - user: bill
     - makedirs: True
+    - require:
+      - file: /home/bill/.vim
 
