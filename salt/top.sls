@@ -4,3 +4,4 @@ base:
     - git
     - tmux
     - python
+    - tools
