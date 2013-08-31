@@ -9,3 +9,7 @@ python-pip:
 python-virtualenv:
   pkg:
     - installed
+
+ipython:
+  pkg:
+    - installed
