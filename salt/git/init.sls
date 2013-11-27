@@ -33,3 +33,9 @@ https://github.com/scrooloose/nerdtree.git:
     - target: /home/bill/.vim/bundle/nerdtree
     - require:
       - file.directory: /home/bill/.vim/bundle
+
+https://github.com/chrisbra/csv.vim.git:
+  git.latest:
+    - target: /home/bill/.vim/bundle/nerdtree
+    - require:
+      - file.directory: /home/bill/.vim/bundle
